@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container-fluid{
+    background-color: rgb(145, 112, 72);
+    color: white;
+    
+   
+}
+
+#navbarNav{
+    display: flex;
+    flex-direction: row-reverse;
+   
+}
+
+#carouselExample img{
+    width: 100%;
+    
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
