@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+#navbarNav{
+    display: flex;
+    flex-direction: row-reverse;
+  
+ }
+
+ .container-fluid{
+    background-color: rgb(226, 190, 146);
+    color: white;
+ }
+
+
+
