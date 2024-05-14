@@ -3,9 +3,17 @@
     padding: 0%;
 }
 
+@keyframes example {
+    0%   {background-color: rgb(231, 247, 187);}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+
 .container-fluid{
-    background-color: rgb(145, 112, 72);
+    background-color: rgb(226, 190, 146);
     color: white;
+    
     
    
 }
@@ -18,8 +26,29 @@
 
 #carouselExample img{
     width: 100%;
+    height: 550px;
     
  
+}
+
+.testos{
+    width:50%;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(250, 241, 228);
+    padding: 10px;
+    
+
+}
+
+.testos{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
 }
 
 
