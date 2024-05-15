@@ -55,10 +55,14 @@
 
 
 footer{
+    margin-top: 2px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     background-color: rgb(226, 190, 146);
+    
+
 }
+
 
 
 

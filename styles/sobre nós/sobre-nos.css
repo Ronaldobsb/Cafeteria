@@ -11,9 +11,20 @@
  }
 
  .container-fluid{
-    background-color: rgb(226, 190, 146);
+    background-color: rgba(88, 77, 62, 0.521);
     color: white;
  }
+
+ footer{
+    margin-top: 2px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(88, 77, 62, 0.521);
+    
+
+}
+
+
 
 
 

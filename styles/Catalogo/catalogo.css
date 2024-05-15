@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.container-fluid{
+    background-color: rgb(247, 213, 121);
+    color: white;
+    
+    
+   
+}
+
+#navbarNav{
+    display: flex;
+    flex-direction: row-reverse;
+ }
+ 
+
+
+
+ footer{
+    margin-top: 2px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(247, 213, 121);
+    align-items: center;
+    
+
+}
+
